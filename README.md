@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/codieshiv/codieshiv/output/snake.svg" alt="Snake animation" />
-
-###
