@@ -4,7 +4,7 @@
   <img height="150" alt="Coding GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM0NWJ1MWRiY2l1MmQ5OGUyeWV6Ymh6bW5qbXMyamdxdzB1YjlwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 </p>
 
-# 🎨 Surjeet Shah | Creative Developer 🚀
+# 🎨 Surjeet Shah | Creative Developer 🚀 
 
 ```css
 .surjeet-shah {
