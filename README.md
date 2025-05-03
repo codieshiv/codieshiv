@@ -5,28 +5,7 @@
 </p>
 
 <div align="center">
-  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150">
-    <style>
-      .text { font-family: 'Inter', sans-serif; font-weight: bold; font-size: 48px; }
-      .animate-gradient { animation: gradient 8s ease infinite; }
-      @keyframes gradient {
-        0% { stop-color: #8B5CF6; }
-        50% { stop-color: #EC4899; }
-        100% { stop-color: #8B5CF6; }
-      }
-    </style>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" class="animate-gradient">
-          <animate attributeName="stop-color" values="#8B5CF6; #EC4899; #8B5CF6" dur="8s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#EC4899" class="animate-gradient">
-          <animate attributeName="stop-color" values="#EC4899; #8B5CF6; #EC4899" dur="8s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="400" y="90" text-anchor="middle" class="text" fill="url(#gradient)">Surjeet Shah</text>
-  </svg>
+ 
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+learner;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
