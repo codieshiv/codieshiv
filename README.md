@@ -1,10 +1,38 @@
-[<img align="center" width="100%" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7518B&center=true&vCenter=true&repeat=false&width=435&lines=Building+digital+experiences+with+passion"/>][website]
+[<img align="center" width="100%" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7518B&center=true&vCenter=true&repeat=false&width=435&lines=b=Building+digital+experiences+with+passion"/>][website]
 
 <p align="center">
   <img height="150" alt="Coding GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM0NWJ1MWRiY2l1MmQ5OGUyeWV6Ymh6bW5qbXMyamdxdzB1YjlwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 </p>
 
-# 🎨 Surjeet Shah | Creative Developer 🚀 
+<div align="center">
+  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150">
+    <style>
+      .text { font-family: 'Inter', sans-serif; font-weight: bold; font-size: 48px; }
+      .animate-gradient { animation: gradient 8s ease infinite; }
+      @keyframes gradient {
+        0% { stop-color: #8B5CF6; }
+        50% { stop-color: #EC4899; }
+        100% { stop-color: #8B5CF6; }
+      }
+    </style>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" class="animate-gradient">
+          <animate attributeName="stop-color" values="#8B5CF6; #EC4899; #8B5CF6" dur="8s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#EC4899" class="animate-gradient">
+          <animate attributeName="stop-color" values="#EC4899; #8B5CF6; #EC4899" dur="8s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="400" y="90" text-anchor="middle" class="text" fill="url(#gradient)">Surjeet Shah</text>
+  </svg>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+learner;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ```css
 .surjeet-shah {
@@ -71,9 +99,7 @@ while (alive) {
 }
 ```
 
-<p align="center">
-  <img width="100%" alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+
 
 ## 🎯 My Creative Arsenal
 
@@ -98,45 +124,13 @@ while (alive) {
   <img alt="ThreeJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
 </p>
 
-### 🤖 AI & Modern Tools
+
+
 
 <p align="center">
-  <img alt="ChatGPT" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">&nbsp;
-  <img alt="VS Code" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-### 🎯 Specialized Skills
-
-- **Web Design & Development**
-  - Responsive Web Design
-  - User Interface Design
-  - Front End Architecture
-  - Responsive Design Systems
-  - 3D Website Development
  
   
-  
-- **Design & Creative**
-  - Graphic Design
-  - UI/UX Design
-  - Visual Design
-  - Web Design
-  - Brand Identity Design
-  - 
-[website]: https://your-website.com
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/surjeet-shah-6562532a5/
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555
-[twitter-url]: https://twitter.com/codieshiv_web
-
-<!-- links -->
-[website]: https://your-website.com
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/surjeet-shah-6562532a5/
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555
-[twitter-url]: https://twitter.com/codieshiv_web
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
+ 
